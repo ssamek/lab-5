@@ -1,5 +1,6 @@
 td, th {
-	border: 2px solid green;
+	border: 2px solid 
+	border-color: green;
 	text-align: center;
   }
   
