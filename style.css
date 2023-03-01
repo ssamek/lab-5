@@ -1,5 +1,5 @@
 table, td, th {
-	border: 2px solid 
+	border: 2px solid; 
 	border-color: green;
 	text-align: center;
   }
