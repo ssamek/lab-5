@@ -24,5 +24,10 @@ h1 {
 .column{
 	background-color: rgb(3,0,39);
 }
+
+body {
+	text-align: center;
+	color: white;
+}
 	
 
