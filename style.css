@@ -3,15 +3,17 @@ td, th {
 	border-color: rgb(136,13,30);
 	text-align: center;
   }
-  
+html {
+	background-color: black;
+}
+body {
+	text-align: center;
+	color: white;
+}
 img {
 	width: 600px;
 	height: 500px;
   }
-  
-html {
-	background-color: black;
-}
 
 h1 {
 	font-family: Georgia, serif;
@@ -25,9 +27,5 @@ h1 {
 	background-color: rgb(3,0,39);
 }
 
-body {
-	text-align: center;
-	color: white;
-}
 	
 
