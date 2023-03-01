@@ -1,6 +1,6 @@
 td, th {
 	border: 2px solid; 
-	border-color: rgb(136,13,30);
+	border-color: red;
 	text-align: center;
   }
 html {
@@ -8,6 +8,7 @@ html {
 }
 body {
 	text-align: center;
+	background-color:black;
 	color: white;
 }
 img {
